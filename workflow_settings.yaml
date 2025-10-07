@@ -1,4 +1,5 @@
-defaultProject: deft-station-471106-u0
+defaultProject: my-gcp-project
+defaultLocation: EU
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
-dataformCoreVersion: 3.0.26
+dataformCoreVersion: 3.0.0
